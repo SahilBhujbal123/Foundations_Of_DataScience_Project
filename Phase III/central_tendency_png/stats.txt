@@ -1,0 +1,8 @@
+Central Tendency and Dispersion
+
+rectal_temp: mean=38.048, median=38.200, var=5.286, std=2.299, range=40.800
+pulse: mean=71.120, median=64.000, var=773.691, std=27.815, range=184.000
+respiratory_rate: mean=29.303, median=25.000, var=258.051, std=16.064, range=96.000
+packed_cell_volume: mean=46.027, median=45.000, var=105.255, std=10.259, range=75.000
+total_protein: mean=22.348, median=7.500, var=692.955, std=26.324, range=89.000
+abdomo_protein: mean=2.541, median=2.300, var=1.439, std=1.200, range=10.100
